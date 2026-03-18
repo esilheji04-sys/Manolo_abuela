@@ -52,6 +52,7 @@ Un trágico suceso perturba el retiro espiritual de Manolo.
 ### Productos
 
 - Personajes: <br>
+
 Manolo <br>
 <img width="256" height="384" alt="image (1)" src="https://github.com/user-attachments/assets/5031dc26-dd63-4c22-b8c9-f545fc55221e" /> <br>
   
