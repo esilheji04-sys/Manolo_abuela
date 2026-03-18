@@ -52,14 +52,14 @@ Un trágico suceso perturba el retiro espiritual de Manolo.
 ### Productos
 
 - Personajes:
-  Manolo
-<img width="256" height="384" alt="image (1)" src="https://github.com/user-attachments/assets/5031dc26-dd63-4c22-b8c9-f545fc55221e" />
+Manolo
+<img width="256" height="384" alt="image (1)" src="https://github.com/user-attachments/assets/5031dc26-dd63-4c22-b8c9-f545fc55221e" /> <br>
   
-  Baldomero
-  <img width="256" height="384" alt="image" src="https://github.com/user-attachments/assets/e6cce353-6fec-4555-9fa4-91ace5da3f13" />
+Baldomero 
+  <img width="256" height="384" alt="image" src="https://github.com/user-attachments/assets/e6cce353-6fec-4555-9fa4-91ace5da3f13" /> <br>
 
-  Primitiva 
-<img width="256" height="256" alt="image (2)" src="https://github.com/user-attachments/assets/b16d3a19-5f3b-4291-92b3-5f7e9d19918b" />
+Primitiva 
+<img width="256" height="256" alt="image (2)" src="https://github.com/user-attachments/assets/b16d3a19-5f3b-4291-92b3-5f7e9d19918b" /> <br>
 
 - Enlace al interactivo: https://app.lumi.education/run/gVydLG 
 
