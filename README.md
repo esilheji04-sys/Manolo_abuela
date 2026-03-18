@@ -10,8 +10,8 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man:Daniel López Pérez
-- :woman:Rocío Sánchez Gómez
+- :man: Daniel López Pérez
+- :woman: Rocío Sánchez Gómez
 - :woman: Silvia Herrera Jiménez
 - :woman: Claudia Valenzuela Pérez
 
@@ -52,13 +52,13 @@ Un trágico suceso perturba el retiro espiritual de Manolo.
 ### Productos
 
 - Personajes:
-Manolo
+Manolo <br>
 <img width="256" height="384" alt="image (1)" src="https://github.com/user-attachments/assets/5031dc26-dd63-4c22-b8c9-f545fc55221e" /> <br>
   
-Baldomero 
+Baldomero <br>
   <img width="256" height="384" alt="image" src="https://github.com/user-attachments/assets/e6cce353-6fec-4555-9fa4-91ace5da3f13" /> <br>
 
-Primitiva 
+Primitiva <br> 
 <img width="256" height="256" alt="image (2)" src="https://github.com/user-attachments/assets/b16d3a19-5f3b-4291-92b3-5f7e9d19918b" /> <br>
 
 - Enlace al interactivo: https://app.lumi.education/run/gVydLG 
