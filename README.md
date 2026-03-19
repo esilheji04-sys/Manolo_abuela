@@ -49,13 +49,13 @@ Manolo asintió, dejándose llevar por el sonido de las olas y el olor a brasa d
 
 Un chillido de frenos duros, un "¡SKRETCH! " que hizo temblar hasta los pelos de un calvo, interrumpió el mantra de Baldomero. Baldomero abrió un ojo y lo que vio le asustó más que si se le hubiera caído la cerveza de la mano. 
 
-Ahí estaba ella. La abuela de Manolo, Primitiva. Parecía que era una mecánica de autobuses en pleno Paseo del Parque. Primitiva no era una abuela común; con sus gafas de sol negras, su cadena de oro y ese aire de "rollito" que los años no habían borrado, avanzaba como si el suelo fuera su tapiz rojo. 
+Ahí estaba ella. La abuela de Manolo, Primitiva. Parecía que era una mecánica de autobuses en pleno Paseo del Parque. Primitiva no era una abuela común; ella siempre iba con sus gafas de sol negras, su cadena de oro y ese "rollito urbano" que los años no habían borrado. 
 
 —¡¡¡ABUELA! ! ! ¡QUE NO ERES MECÁNICA! —gritó Manolo, levantándose de la silla y tirando su cerveza al aire en un gesto desesperado. 
 
-El impacto fue de tebeo: ¡KABOOM! ¡CRASH! ¡ZAS! El enorme autobús de la EMT Málaga golpeó a la anciana Primitiva justo cuando ella daba un grito de socorro que se escuchó hasta en el Palo. Manolo corrió por la arena, con las chanclas saltando y el corazón latiendo muy rápido, viendo cómo su retiro espiritual se volvía una pesadilla de metal, goma y gritos. 
+El enorme autobús de la EMT Málaga golpeó a la anciana Primitiva justo cuando ella cruzaba. Primitiva pegó un grito de socorro que se escuchó hasta en el Palo. Manolo corrió por la arena, con las chanclas saltando y el corazón latiendo muy rápido, viendo cómo su retiro espiritual se volvía una pesadilla de metal, goma y gritos. 
 
-Baldomero se quedó sentado, con la sardina a medio comer y la mirada vacía, ya no sabía si comerse una sardina con piruletas o un espeto con mayonesa. Su retiro acababa de concluir, y lo que llegaba ahora no lo curaba ni toda la meditación del mundo, ni todos los espetos de la malagueta.
+Baldomero se quedó sentado, con la sardina a medio comer y la mirada vacía, ya no sabía si comerse una sardina con piruletas o un espeto con mayonesa. Su retiro acababa de concluir, y lo que llegaba ahora no lo curaba ni toda la meditación del mundo, ni mucho menos todos los espetos de la malagueta.
 
 ### TagLine
 Un trágico suceso perturba el retiro espiritual de Manolo.
