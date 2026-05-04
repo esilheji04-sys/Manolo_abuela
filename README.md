@@ -77,7 +77,8 @@ Manolo, que buscaba la tranquilidad y equilibrio en su retiro espiritual en Mál
 
 - Enlace al interactivo: https://app.lumi.education/run/gVydLG   
 
-
+- Enlace al teaser: https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=543-946&t=z1iaZtQcRnAiPWIu-0&scaling=contain&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=273%3A412&show-proto-sidebar=1
+.Arcweave: https://arcweave.com/app/project/POlqGBA6az/play?entrypoint=play_btn
 
 ### Conclusiones
 
